@@ -15,14 +15,14 @@ What is khtools?
 Kmer hashing tools contains data cleaning and visualization code for analyzing kmer-hashing similarity matrices
 
 -   Free software: MIT license
--   Documentation: <https://>czbiohub.github.io/khtools
+-   Documentation: <https://czbiohub.github.io/khtools>
 
 Installation
 ------------
 
 To install this code, clone this github repository and use pip to install
 
-```
+```shell
 git clone <https://github.com/>czbiohub/khtools.git 
 cd khtools 
 
@@ -35,7 +35,7 @@ Usage
 
 Greet a name multiple times!
 
-```
+```shell
 $ Kmer-hashing tools hello --name "Rosalind Franklin" --count 10 
 ```
 
